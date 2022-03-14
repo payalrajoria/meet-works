@@ -2,7 +2,7 @@ import React from "react";
 import { styled } from "@mui/material/styles";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
-import meetLogo from "../Meet logo.png";
+import meetLogo from "../Meetlogo.png";
 import BottomNavigation from "@mui/material/BottomNavigation";
 import BottomNavigationAction from "@mui/material/BottomNavigationAction";
 import ExploreIcon from "@mui/icons-material/Explore";
