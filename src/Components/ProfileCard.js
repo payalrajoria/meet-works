@@ -3,8 +3,6 @@ import { styled } from "@mui/material/styles";
 import Grid from "@mui/material/Grid";
 import Stack from "@mui/material/Stack";
 import Divider from "@mui/material/Divider";
-import CardContent from "@mui/material/CardContent";
-import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import WorkIcon from "@mui/icons-material/Work";
